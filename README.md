@@ -2,7 +2,7 @@
 - Installer Chrome
 - Activer le son de l'ordinateur (volume maximum car l'alerte n'est pas élevée)
 - Avoir un compte Doctolib, avec un mot de passe ne contenant pas de caractères spéciaux
-- Télécharger la dernière release [auto_doctolib.exe](https://github.com/M07ak/auto_doctolib_doser/releases/download/1.0.2/auto_doctolib_chronodose.zip)
+- Télécharger la dernière release [autodoser.exe](https://github.com/M07ak/auto_doctolib_doser/releases/download/1.0.2/autodoser.zip)
 
 # Préparation
 - Ouvrir le fichier infos.json
