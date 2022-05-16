@@ -1,3 +1,5 @@
+Automatically books an appointment for a covid vaccine on Doctolib. Developed and used in the days when doses were restricted and announced at the last moment 
+
 # Prérequis
 - Installer Chrome
 - Activer le son de l'ordinateur (volume maximum car l'alerte n'est pas élevée)
